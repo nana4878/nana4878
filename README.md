@@ -1,4 +1,4 @@
-- Olá! Meu nome é Sabrina Ribeiro
+- Olá! Meu nome é Sabrina Ribeiro, tenho 40 e sou do Rio de Janeiro
 - 👀 Estou aqui em busca de aprendizado e crescimento na área da Técnologia 
 - 🌱 Entrei aqui vinda de outra empresa que também oferece Bootcamps, mas nada parecido com os que eu vejo aqui
 - 💞️ Quero colaborar e aprender com os projetos que forem apresentados aqui, pois eu sei que vão ajudar ainda mais o meu desenvolvimento profissional
